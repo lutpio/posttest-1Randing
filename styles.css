@@ -1,0 +1,40 @@
+body {
+  background: #ffff;
+  font-family: "Lucida Grande";
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+  text-align: center;
+}
+
+ul.myUL{
+  display: inline-block;
+  text-align: left;
+}
+td {
+  padding: 4px;
+  text-align: center;
+}
+.top-content{
+  text-align: center;
+}
+.top-content img{
+  width: 15%;
+  border-radius: 50%;
+}
+.top-content span{
+  color: red;  
+}
+.top-content p{
+  font-size: 20px;
+  opacity : 0.8;
+}
+footer p {
+  color: #b3aeb5;
+  text-align: center;
+  font-size: 12px;
+}
